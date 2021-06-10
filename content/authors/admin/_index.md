@@ -1,7 +1,7 @@
 ---
 title: Yuhang Huang
 role: Game Engineer & Graphics Researcher
-avatar_filename: https://scontent-nrt1-1.xx.fbcdn.net/v/t1.6435-9/66407668_1297191833789903_6044313265276715008_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=5gkFI0B4vHkAX-NGf3o&_nc_ht=scontent-nrt1-1.xx&oh=709974d16456395762ac3c38738d7f65&oe=60E70828
+avatar_filename: ""
 bio: My research interests include computer graphics, fracture animation, unity
   art work.
 interests:
