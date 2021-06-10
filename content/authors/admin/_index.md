@@ -9,7 +9,8 @@ interests:
   - Computer Animation
   - Machine Learning
   - Fracture Simulation
-  - Media ArtVR
+  - Media Art
+  - VR
   - Deep Learning
 social:
   - icon: envelope
@@ -19,7 +20,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/nikoloside
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=gcCj5dEAAAAJ
   - icon: github
     icon_pack: fab
@@ -32,6 +33,8 @@ organizations:
     url: https://dena.com/jp/
   - name: The University of Tokyo
     url: http://www.u-tokyo.ac.jp/
+  - url: https://graphics.c.u-tokyo.ac.jp/hp/
+    name: Kanai Lab.
 education:
   courses:
     - course: PhD in Computer Graphics (Plan)
