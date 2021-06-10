@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -37,6 +37,16 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+## **Journals**
+- Yuhang Huang, Yonghang Yu, Takashi Kanai, “Predicting Brittle Fracture Surface Shape From a Versatile Database”, Computer Animation and Virtual Worlds, Volume 30, Issue 6, e1865, 19 pages (November/December 2019). (Reviewed)
+   
+## **Papers**
+- Yuhang Huang, Takashi Kanai, “Brittle Fracture Prediction Method for Plane Shapes Using Conditional-GANs”, Proc. 12th Asian Forum on Graphic Science, Article No.25, 9 pages, Kunming, China (9-12
+   August 2019). (Reviewed，Full Paper)
+- Yonghang Yu, Yuhang Huang, Takashi Kanai, “Data-Driven Approach for Simulating Brittle Fracture Surfaces”, ACM SIGGRAPH ASIA 2017 Workshop: Data-Driven Animation Techniques (D2AT), 8 pages,
+   Bangkok, Thailand (November/December 2017). (Reviewed，Full Paper)
+
+## **Domestic Conference & Posters & Invited talks**
+- 黄 宇航，于 永航，金井 崇, “データ駆動法による脆性破壊曲面生成シミュレーション”, 画像電子学会 ビジュアル
+   コンピューティングワークショップ 2017, 登別, 2 ページ (12 月, 2017). (査読無)
+- 黄 宇航, “AFGS2019 に参加して昆明（中国）での発表”, 「図学研究」バックナンバー, 第 53 巻 4 号 第 162 号, 1 ページ (令和元年 12 月). (査読無)

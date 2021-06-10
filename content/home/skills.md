@@ -9,25 +9,37 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Skills x Hobbies x Focus
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
+- description: 5%
+  icon: atom
+  icon_pack: fas
+  name: Research
+- description: 30%
+  icon: unity
   icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
+  name: Unity
+- description: 60%
+  icon: bug
   icon_pack: fas
-  name: Statistics
+  name: C++
 - description: 10%
-  icon: camera-retro
+  icon: dice-d20
   icon_pack: fas
-  name: Photography
+  name: CoC TRPG Scenario
+- description: 30%
+  icon: ghost
+  icon_pack: fas
+  name: Game Dev and Media Art
+- description: 33%
+  icon: umbrella-beach
+  icon_pack: fas
+  name: Life Explorer / Travel
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

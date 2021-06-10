@@ -22,28 +22,47 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Game Engineer & Graphics Engineer
+    company: DeNA
+    company_url: 'https://dena.com'
+    company_logo: dena
+    location: Tokyo, Japan
+    date_start: '2019-04-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Smartphone Game Logic Development
+        * Smartphone Game UI Development
+        * Game CI Framework
+        * Computer Graphics / Animation
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Data Scientist Internship
+    company: Recruit Holdings
+    company_url: 'https://recruit-holdings.co.jp'
+    company_logo: recruit
+    location: Tokyo, Japan
+    date_start: '2017-08-01'
+    date_end: '2017-09-30'
+    description: Document scoring task with Machine Learning and Natural Language Processing.
+
+  - title: IT Specialist Internship
+    company: IBM
+    company_url: 'https://www.ibm.com/'
+    company_logo: ibm
+    location: Tokyo, Japan
+    date_start: '2017-08-01'
+    date_end: '2017-08-31'
+    description: Workshop about Agile Development.
+    
+  - title: Front Development Engineer - Part-time
+    company: Super One Inc.
+    company_url: 'https://www.super-one.net/'
+    company_logo: superone
+    location: Tokyo, Japan
+    date_start: '2014-07-01'
+    date_end: '2016-06-01'
+    description: HTML5/javascript development for Primary School Digital Textbook.
 
 design:
   columns: '2'
