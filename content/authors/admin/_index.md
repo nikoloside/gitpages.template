@@ -40,7 +40,7 @@ education:
   courses:
     - course: PhD in Computer Graphics
       institution: The University of Tokyo
-      year: 2022 ~
+      year: 2021
     - course: MEng in Computer Graphics
       institution: The University of Tokyo
       year: 2017 ~ 2019
