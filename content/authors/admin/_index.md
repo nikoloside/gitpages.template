@@ -2,7 +2,9 @@
 title: Yuhang Huang
 role: Game Engineer & Graphics Researcher
 avatar_filename: ""
-bio: My research interests include computer graphics, computer animation, deep learning, media art, and VR, especially focus on creating the framework of real-time and realistic procedural fracturing animation.
+bio: My research interests include computer graphics, computer animation, deep
+  learning, media art, and VR, especially focus on creating the framework of
+  real-time and realistic procedural fracturing animation.
 interests:
   - Computer Graphics
   - Computer Animation
@@ -36,7 +38,7 @@ organizations:
     name: Kanai Lab.
 education:
   courses:
-    - course: PhD in Computer Graphics (Plan)
+    - course: PhD in Computer Graphics
       institution: The University of Tokyo
       year: 2022 ~
     - course: MEng in Computer Graphics
@@ -49,6 +51,6 @@ email: nikoloside@gmail.com
 superuser: true
 highlight_name: false
 ---
-Yuhang Huang is a game engineer of computer graphics animation at the DeNA. His research interests include computer graphics, computer animation, deep learning, media art, and VR, especially focus on creating the framework of real-time and realistic procedural fracturing animation.
+Yuhang Huang is a Doctoral Student at the University of Tokyo. He was a game engineer of computer graphics animation at the DeNA. His research interests include computer graphics, computer animation, deep learning, media art, and VR, especially focusing on creating the framework of real-time and realistic procedural fracturing animation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/2020.01.Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
